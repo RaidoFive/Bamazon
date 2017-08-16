@@ -9,11 +9,11 @@ Please reference the images folder for screencaptures demonstrating the function
 Running the Application
 
 Requirements: 
-MySQL
+MySQL, 
 Node.js
 
 npm packages:
-inquirer
+inquirer, 
 mysql
 
 To run the program, open the command line/bash terminal.
